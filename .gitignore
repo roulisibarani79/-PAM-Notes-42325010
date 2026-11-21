@@ -1,0 +1,6 @@
+run.bat
+run.sh
+android/app/google-services.json
+*.keystore
+*.jks
+key.properties
